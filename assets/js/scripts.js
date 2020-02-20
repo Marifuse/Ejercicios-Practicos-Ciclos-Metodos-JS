@@ -26,6 +26,7 @@ function preguntasOpciones(){
   }
 }
 
+
 // Ejecutar cuando apriete una opción numérica
 preguntasOpciones();
 // Función de agregar número del 1 al 100

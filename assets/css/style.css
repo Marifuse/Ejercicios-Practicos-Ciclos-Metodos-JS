@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: cornsilk;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+  color: brown;
+}
+
+p {
+  font-size: 3em;
+  text-decoration: underline;
+  color: indianred;
+  margin-bottom: 0;
+}
